@@ -1,7 +1,7 @@
 context:
   name: conda-launchers
   version: "24.7.1"
-  build_number: 2
+  build_number: 3
 
 recipe:
   name: ${{ name|lower }}
